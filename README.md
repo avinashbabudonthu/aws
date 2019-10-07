@@ -1,6 +1,6 @@
 # List of Projects
-* [S3](s3-practice)
-* [SQS](sqs-practice)
+* [S3](s3)
+* [SQS](sqs)
 
 # Materials
 ## Pluralsight
