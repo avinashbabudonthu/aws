@@ -30,7 +30,7 @@
 * [AWS Java SDK](https://aws.amazon.com/sdk-for-java)
 * [Amazon Cli Documentation](https://aws.amazon.com/cli)
 
-# Order of Studying Services
+# Services - Studying Order
 * Elastic Cloud Compute - EC2
 * Virtual Private Cloud - VPC
 * Simple Storage Service - S3
