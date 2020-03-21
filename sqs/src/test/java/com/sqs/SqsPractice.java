@@ -17,6 +17,7 @@ import com.amazonaws.services.sqs.model.ReceiveMessageResult;
 import com.amazonaws.services.sqs.model.SendMessageRequest;
 import com.amazonaws.services.sqs.model.SendMessageResult;
 
+@SuppressWarnings("all")
 public class SqsPractice {
 
 	private static final String accessKey = "XXX";
