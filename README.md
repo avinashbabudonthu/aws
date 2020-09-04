@@ -29,14 +29,15 @@
 ## Youtube
 * [Introduction to AWS Services](https://www.youtube.com/watch?v=Z3SYDTMP3ME&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=9&t=172s)
 * [How to prepare for your first AWS Certification! (Resource & Strategies included)](https://www.youtube.com/watch?v=n_xUYEKBeIU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=4&t=0s)
-* https://www.youtube.com/watch?v=RLd_XTyt-w8&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=5&t=0s
-* https://www.youtube.com/watch?v=HoXEyXIf6_U&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=2&t=0s
-* https://www.youtube.com/watch?v=2oXVYxIPs88&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=3&t=2772s
-* https://www.youtube.com/watch?v=ovEq4L6tGfc&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=6&t=0s
-* https://www.youtube.com/watch?v=2mVR_Qgx_RU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=7&t=0s
-* https://www.youtube.com/watch?v=ijyeE-pXFk0&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=8&t=0s
-* https://www.youtube.com/watch?v=mJXcxe6Kxwg&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=11&t=155s
-* https://www.youtube.com/watch?v=8-KNqr60AyU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=10&t=0s
+* [AWS Tutorial For Beginners | AWS Full Course | AWS Solutions Architect Certification | Simplilearn](https://www.youtube.com/watch?v=RLd_XTyt-w8&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=5&t=0s)
+* [AWS ECS vs EKS vs Fargate](https://www.youtube.com/watch?v=HoXEyXIf6_U&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=2&t=0s)
+* [AWS Fargate and ECS - Deploy Spring Microservices
+](https://www.youtube.com/watch?v=2oXVYxIPs88&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=3&t=2772s)
+* [Introduction to Amazon DynamoDB | Edureka](https://www.youtube.com/watch?v=ovEq4L6tGfc&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=6&t=0s)
+* [AWS DynamoDB Tutorial | AWS Services | AWS Tutorial For Beginners | AWS Training Video | Simplilearn](https://www.youtube.com/watch?v=2mVR_Qgx_RU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=7&t=0s)
+* [AWS Lambda & DynamoDB - AWS Serverless Part I](https://www.youtube.com/watch?v=ijyeE-pXFk0&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=8&t=0s)
+* [Streaming Logs to CloudWatch from EC2](https://www.youtube.com/watch?v=mJXcxe6Kxwg&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=11&t=155s)
+* [AWS - CloudWatch Metrics, Alarms, Pricing, Events, Detailed Monitoring](https://www.youtube.com/watch?v=8-KNqr60AyU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=10&t=0s)
 
 ## Others
 * [AWS Java SDK](https://aws.amazon.com/sdk-for-java)
