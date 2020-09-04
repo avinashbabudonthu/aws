@@ -27,8 +27,8 @@
 * AWS Certified DevOps Engineer: High Availability and Elasticity
 
 ## Youtube
-* https://www.youtube.com/watch?v=Z3SYDTMP3ME&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=9&t=172s
-* https://www.youtube.com/watch?v=n_xUYEKBeIU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=4&t=0s
+* [Introduction to AWS Services](https://www.youtube.com/watch?v=Z3SYDTMP3ME&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=9&t=172s)
+* [How to prepare for your first AWS Certification! (Resource & Strategies included)](https://www.youtube.com/watch?v=n_xUYEKBeIU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=4&t=0s)
 * https://www.youtube.com/watch?v=RLd_XTyt-w8&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=5&t=0s
 * https://www.youtube.com/watch?v=HoXEyXIf6_U&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=2&t=0s
 * https://www.youtube.com/watch?v=2oXVYxIPs88&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=3&t=2772s
