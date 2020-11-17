@@ -41,3 +41,22 @@
 		* Keep in EC2 instances
 		* Scans instances for any vulnerabilities. This is used for getting compliance like HIPPA etc\
 ![picture](images/security-services.jpg)
+* Development and Devops services
+	* CloudFormation
+		* Takes template in `json` or `yaml` format
+		* Create infrastructre with all services (check image above) from scratch
+	* CodeCommit
+		* Similar to GIT where we can check in the code
+	* CodeBuild
+		* To build application
+		* Takes source code (written Java, Python etc) and builds it using build tools like Maven, Gradle etc
+		* Produces artifacts (application executables)
+	* CodeDeploy
+		* For deployment
+		* To deploy artifacts in EC2
+	* CodePipeline
+		* To build CI pipeline with above services
+	* CodeStar
+		* Project management
+		* Issue tracking\
+![picture](images/devops-services.jpg)
