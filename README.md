@@ -35,7 +35,7 @@
 * Introduction To Amazon Web Services - AWS Tutorial for Beginners - AWS Training Videos.mp4
 * AWS Tutorial - AWS Full Course - Learn AWS In 11 Hours - AWS Training.mp4
 * How to prepare for your first AWS Certification(Resource & Strategies included).mp4
-[How to prepare for your first AWS Certification! (Resource & Strategies included)](https://www.youtube.com/watch?v=n_xUYEKBeIU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=4&t=0s)
+	* [How to prepare for your first AWS Certification! (Resource & Strategies included)](https://www.youtube.com/watch?v=n_xUYEKBeIU&list=PLAAFXN2OG73WoYuYevW5sYrc5UxbeRVZq&index=4&t=0s)
 * AWS Tutorial For Beginners _ AWS Full Course _ AWS Solutions Architect Certification.mp4
 	* [AWS Tutorial For Beginners | AWS Full Course | AWS Solutions Architect Certification | Simplilearn](https://www.youtube.com/watch?v=RLd_XTyt-w8)
 * AWS-CloudWatch-Logs-1080p.mp4
