@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Introduction to AWS services](#Introduction-to-AWS-services)
-* [AWS Cloud Notes](#AWS-Cloud-Notes)
+* [AWS Cloudwatch Notes](#AWS-Cloudwatch-Notes)
 
 ### Introduction to AWS services
 #### AWS Global Data Centers
@@ -67,6 +67,6 @@
 		* Issue tracking\
 ![picture](images/devops-services.jpg)
 
-### AWS Cloud Notes
+### AWS Cloudwatch Notes
 #### Stream EC2 logs to Cloud watch and create alarm based on log message
 ![picture](images/cloud-watch/stream-logs-cloud-watch-create-alarm-flow.jpg)
