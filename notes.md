@@ -26,4 +26,4 @@
 * General application architecture\
 ![picture](images/application-architecture.jpg)
 * Above application architecture with AWS services\
-![picture](images/application-architecture-aws-2.jpg)
+![picture](images/aws-application-architecture.jpg)
