@@ -4,7 +4,7 @@
 * [Introduction to AWS services](#Introduction-to-AWS-services)
 
 ### Introduction to AWS services
-## AWS Global Data Centers
+#### AWS Global Data Centers
 * `AWS Region`: Whenever we are using AWS services typically we deploy our application in AWS geographical area. That geographical area is called `AWS Regions`
 * Across world there are different AWS regions available
 * When we deploy services, we can choose which regions we need to deploy
