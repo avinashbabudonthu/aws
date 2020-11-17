@@ -1,3 +1,8 @@
+# AWS Notes
+
+## Table of Contents
+* [Introduction to AWS services](#Introduction-to-AWS-services)
+
 # Introduction to AWS services
 ## AWS Global Data Centers
 * `AWS Region`: Whenever we are using AWS services typically we deploy our application in AWS geographical area. That geographical area is called `AWS Regions`
