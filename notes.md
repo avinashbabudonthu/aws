@@ -27,3 +27,17 @@
 ![picture](images/application-architecture.jpg)
 * Above application architecture with AWS services\
 ![picture](images/aws-application-architecture.jpg)
+* Application services\
+![picture](images/aws-application-services.jpg)
+* Security services
+	* IAM - Identity and Access Management
+	* KMS - Key Management Service
+		* To encrypt data
+	* ACM - Amazon Certificate Manager
+		* For digital certificates to write https APIs and security
+	* WAF - Web Application Firewall
+		* Application firewalls
+	* Inspector
+		* Keep in EC2 instances
+		* Scans instances for any vulnerabilities. This is used for getting compliance like HIPPA etc\
+![picture](images/security-services.jpg)
