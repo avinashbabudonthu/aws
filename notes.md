@@ -23,3 +23,7 @@
 	* EC2
 	* RDS
 	* EBS
+* General application architecture\
+![picture](images/application-architecture.jpg)
+* Above application architecture with AWS services\
+![picture](images/application-architecture-aws.jpg)
