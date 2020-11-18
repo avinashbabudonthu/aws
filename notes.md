@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Introduction to AWS services](#Introduction-to-AWS-services)
 * [AWS Cloudwatch Notes](#AWS-Cloudwatch-Notes)
+* [Billing And Budget Setup](#Billing-And-Budget-Setup)
 
 ### Introduction to AWS services
 #### AWS Global Data Centers
@@ -70,3 +71,21 @@
 ### AWS Cloudwatch Notes
 #### Stream EC2 logs to Cloud watch and create alarm based on log message
 ![picture](images/cloud-watch/stream-logs-cloud-watch-create-alarm-flow.jpg)
+
+### Billing And Budget Setup
+* By default IAM users will not have access to Billing dashboard
+* Login to root account
+* Go to billing dashboard
+	* Click on username on top right
+	* My Account
+* Search for `IAM User and Role Access to Billing Information`
+	* Edit
+	* Select `Activate IAM Access` check box
+	* Click `Update` button
+* Setting Budget
+	* Go to billing dashboard
+	* Click on `Budgets` on left menu
+	* Click `Create a budget` button
+	* Select appropriate options
+	* Enter required details
+	

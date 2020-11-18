@@ -54,6 +54,14 @@
 	* [AWS ECS vs EKS vs Fargate](https://www.youtube.com/watch?v=HoXEyXIf6_U)
 * AWS Fargate and ECS - Deploy Spring Microservices.mp4
 	* [AWS Fargate and ECS - Deploy Spring Microservices](https://www.youtube.com/watch?v=2oXVYxIPs88)
+
+## Udemy
+* AWS Essentials
+* Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk
+* Spring Framework DevOps on AWS
+* Docker in AWS - Deploy Java Spring Boot to AWS Fargate & ECS
+* Ultimate AWS Certified Developer Associate 2020 - NEW!
+* Kubernetes Hands-On - Deploy Microservices to the AWS Cloud
 	
 ## Others
 * [AWS Java SDK](https://aws.amazon.com/sdk-for-java)
