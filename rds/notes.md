@@ -22,13 +22,51 @@
 	* DynamoDB - No SQL Database
 	* Red Shift - Data warehouse
 * Create PostgreSQL database instance
-	* AWS web console -> RDS -> Left side we can see dashboard menu -> If we are coming here for the first time, we can see Get Started Now button -> click on Get Started Now button -> Select the database engine we want to create (I am selecting PostgreSQL) -> click on Select button -> select the purpose for creating this DB instance (production - for creating Multy A(vailibility)-Z(one) database, Dev/Test - single instance), i am selecting Dev/Test -> click on Next Step button -> Fill the details appropriately -> click Next Step button -> VPC drop down: select our VPC created before (check VPC tab to know how to create VPC) -> Publicly Accessable: yes -> Database Name: any user defined name -> keep the rest of options to defaults -> click Launch DB Instance button -> This will take some time
+	* AWS web console
+	* RDS
+	* Left side we can see dashboard menu
+	* If we are coming here for the first time, we can see Get Started Now button
+	* click on Get Started Now button
+	* Select the database engine we want to create (I am selecting PostgreSQL)
+	* click on Select button 
+	* select the purpose for creating this DB instance (production - for creating Multy A(vailibility)-Z(one) database, Dev/Test - single instance), i am selecting Dev/Test
+	* click on Next Step button
+	* Fill the details appropriately
+	* click Next Step button
+	* VPC drop down: select our VPC created before (check VPC tab to know how to create VPC)
+	* Publicly Accessable: yes
+	* Database Name: any user defined name
+	* keep the rest of options to defaults
+	* click Launch DB Instance button
+	* This will take some time
 * Security group created for the database created above
-	* AWS web console -> RDS -> click on Instances on left menu -> Expand database row -> click on magnifying glass document icon -> click on link available for Security Groups -> click on Inbound tab -> here we can see port for connecting to PostGre SQL DB-> IP Address will be default to our system IP address. If we want to change IP Address -> click on Edit button -> change Source to Anywhere -> click Save button.
+	* AWS web console
+	* RDS
+	* click on Instances on left menu
+	* Expand database row
+	* click on magnifying glass document icon
+	* click on link available for Security Groups
+	* click on Inbound tab
+	* here we can see port for connecting to PostGre SQL DB
+	* IP Address will be default to our system IP address. If we want to change IP Address
+	* click on Edit button
+	* change Source to Anywhere
+	* click Save button
 * Connecting to PostGre SQL Created above
 	* We need to use any of the below tools
 		* Postico
 		* pgAdmin
-	* Open Postico -> click on New Favorite button -> Nickname: local nick name for DB -> Host: expland database row in AWS RDS web console, copy End point -> Port: port our database is running -> enter username and password -> enter database name what we gave while creating DB -> click Connect button -> now connected to DB
+	* Open Postico
+		* click on New Favorite button
+		* Nickname: local nick name for DB
+		* Host: expland database row in AWS RDS web console, copy End point
+		* Port: port our database is running
+		* enter username and password
+		* enter database name what we gave while creating DB
+		* click Connect button
+		* now connected to DB
 * To create table
-	* After connecting to database -> click on "+Table" button -> give table name, column names etc -> click Save Changes button
+	* After connecting to database
+	* click on `+Table` button
+	* give table name, column names etc
+	* click Save Changes button
