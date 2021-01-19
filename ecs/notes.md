@@ -1,4 +1,4 @@
-# ECS Notes
+# ECS (Elastic Container Service) Notes
 
 ## Introduction
 * ECS is container orchestration tool by AWS to deploy containers to cluster of EC2 instances
